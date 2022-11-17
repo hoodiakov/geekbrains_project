@@ -1,6 +1,6 @@
 #### Recap по финальному проекту
 
-####Основное
+#### Основное
 - Целевая метрика precision@5
 - Бейзлайн решения - MainRecommender
 - Сдаем ссылку на github с решением. На github должен быть файл recommendations.csv (user_id | [rec_1, rec_2, ...] с рекомендациями. rec_i - реальные id item-ов (из retail_train.csv)
