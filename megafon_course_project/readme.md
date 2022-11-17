@@ -6,7 +6,7 @@
 ##### Итого, в качестве входных данных будут представлены:
 ● data_train.csv: id, vas_id, buy_time, target
 ● features.csv.zip: id, <feature_list>
-# И тестовый набор:
+##### И тестовый набор:
 ● data_test.csv: id, vas_id, buy_time
 target - целевая переменная, где 1 означает подключение услуги, 0 - абонент не подключил услугу соответственно.
 buy_time - время покупки, представлено в формате timestamp, для работы с этим столбцом понадобится функция datetime.fromtimestamp из модуля datetime.
