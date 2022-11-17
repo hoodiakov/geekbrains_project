@@ -46,7 +46,7 @@
 
 <tr>
   <td><a href = "https://github.com/hoodiakov/geekbrains_project/tree/master/introduction_to_nlp">Введение в обработку естественного языка</a></td>
-  <td>Создание чат-бота в Telegram для автоматизация сервиса.</td>
+  <td>Создание чат-бота в Telegram для автоматизации сервиса.</td>
 </tr>
  
 </table>
